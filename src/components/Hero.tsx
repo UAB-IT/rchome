@@ -57,7 +57,7 @@ export function Hero() {
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="/">Get started</Button>
                 <Button href="/" variant="secondary">
-                  View on GitHub
+                  View our docs
                 </Button>
               </div>
             </div>
