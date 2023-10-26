@@ -52,7 +52,7 @@ export function Hero() {
                 UAB Research Computing
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                The Research Computing System (RCS) provides a framework for sharing research data, accessing computing power, and collaborating with peers on campus and around the globe. Our goal is to construct a dynamic "network of services" that you can use to organize, study and share your research data. 
+The Research Computing System (RCS) provides a framework for sharing research data, accessing computing power, and collaborating with peers on campus and around the globe. Our goal is to construct a dynamic "network of services" that you can use to organize, study and share your research data.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="/">Get started</Button>
