@@ -15,7 +15,7 @@ jobs:
       run: npm install
 
     - name: Build
-      run: npm install  # replace with your build command
+      run: npm run build  # replace with your build command
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
